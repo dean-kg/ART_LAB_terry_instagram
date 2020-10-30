@@ -31,3 +31,9 @@
 
 
 
+
+* * *    
+### 작업하며 느낀 소소한점들    
+1. 인스타그램 은 미쳤다.. 이미지 크롤링을 위해 html tag 확인해보려고 하는데 인스타그램에서 사진에 대한 카테고리 분류를 다 해놓는것을 보고 충격먹었다.
+<img src="/img/insta_power1.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/img/insta_power2.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
