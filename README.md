@@ -13,3 +13,21 @@
     #### 2. 년도별 각 시간대의 포스팅 숫자   
         
     <img src="/img/4.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
+    
+    
+    #### 3. 전체 게시글 워드 크라우드   
+        
+    <img src="/img/5.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
+
+
+    #### 4. 해쉬태크   
+        
+    <img src="/img/2020-10-30_15_56_37_terr.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
+
+
+    #### 5. 인싸....   
+        
+    <img src="/img/insa.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
+
+
+
