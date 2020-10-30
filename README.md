@@ -5,4 +5,9 @@
 * * *
 * 1. 게시글 분석    
     1.주차별 포스팅 숫자    
-    <img src="/img/1.png" width="100%" height="100%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>   
+    <img src="/img/1.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>    
+    
+    
+    
+    2. 년도별 각 시간대의 포스팅 숫자    
+    <img src="/img/4.png" width="40%" height="40%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
