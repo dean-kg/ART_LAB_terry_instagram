@@ -37,8 +37,8 @@
 1. 인스타그램 은 미쳤다.. 이미지 크롤링을 위해 html tag 확인해보려고 하는데 인스타그램에서 사진에 대한 카테고리 분류를 다 해놓는것을 보고 충격먹었다.    
    인스타내부에서는 엄청난 AI데이터가공 소스가 있겠구나 생각    
 
-<img src="/img/insta_power1.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
-<img src="/img/insta_power2.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/img/insta_power1.PNG.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="/img/insta_power2.PNG.png" width="70%" height="70%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 
     
 2. facebook api는 구글 api 만큼 친절하지 못하다. (단기간 완성 어려워서 보류)    
