@@ -27,7 +27,7 @@
 
     #### 5. 인싸....   
         
-    <img src="/img/insa.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
+    <img src="/img/insa.jpg" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>  
 
 
 
